@@ -1,0 +1,82 @@
+## Achievements
+
+#### International CTFs
+
+<div class="international">
+    <div>
+        <div class="event">🥉 <b>3rd Place bi0sCTF 2022</b> as SKSD</div>
+        <div class="date">Jan 2023</div>
+    </div>
+    <div>
+        <div class="event">🥉 <b>3rd Place Pragyan CTF 2022</b> as CSI</div>
+        <div class="date">Mar 2022</div>
+    </div>
+    <div>
+        <div class="event">🥇 <b>1st Place VULNCON CTF 2021</b> as AmpunBangJago</div>
+        <div class="date">Dec 2021</div>
+    </div>
+    <div>
+        <div class="event">🥇 <b>1st Place CyberThreatForce CTF 2021</b> as AmpunBangJago</div>
+        <div class="date">Jul 2021</div>
+    </div>
+    <div>
+        <div class="event">🥇 <b>1st Place darkCON CTF 2021</b> as AmpunBangJago</div>
+        <div class="date">Feb 2021</div>
+    </div>
+    <div>
+        <div class="event">🥇 <b>1st Place VULNCON CTF 2020</b>* as AmpunBangJago</div>
+        <div class="date">Dec 2020</div>
+    </div>
+    <div>
+        <div class="event">🥉 <b>3rd Place csictf 2020</b> as CSI</div>
+        <div class="date">Jul 2020</div>
+    </div>
+</div>
+
+*_based on the CTF points and submitted write-ups_
+
+#### National CTFs
+
+<div class="national">
+    <div>
+        <div class="event">🥇 <b>1st Place COMPFEST 13 CTF 2021</b></div>
+        <div class="date">Oct 2021</div>
+    </div>
+    <div>
+        <div class="event">🥈 <b>2nd Place Arkavidia 7 CTF 2021</b></div>
+        <div class="date">Feb 2021</div>
+    </div>
+    <div>
+        <div class="event">🥇 <b>1st Place IFEST CTF 2020</b></div>
+        <div class="date">Oct 2020</div>
+    </div>
+    <div>
+        <div class="event">🥈 <b>2nd Place Gemastik XIII: Cyber Security 2020</b></div>
+        <div class="date">Oct 2020</div>
+    </div>
+    <div>
+        <div class="event">🥉 <b>3rd Place COMPFEST 12 CTF 2020</b></div>
+        <div class="date">Sep 2020</div>
+    </div>
+    <div>
+        <div class="event">🥇 <b>1st Place Arkavidia 6 CTF 2020</b></div>
+        <div class="date">Feb 2020</div>
+    </div>
+    <div>
+        <div class="event">And more...</div>
+    </div>
+</div>
+
+<style>
+.international > *, .national > * {
+    display: flex;
+    justify-content: space-between;
+}
+.event {
+    padding-right: 1rem;
+}
+.date {
+    text-align: right;
+    white-space: nowrap;
+}
+</style>
